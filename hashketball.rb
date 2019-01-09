@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-some change
-=======
 require 'pry'
 
 def game_hash
